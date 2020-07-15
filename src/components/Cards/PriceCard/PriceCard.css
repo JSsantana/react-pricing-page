@@ -1,0 +1,111 @@
+.card-price__basic {
+  background-color: #f3f8fc;
+  border-radius: 10px;
+  height: 480px;
+  width: 330px;
+  padding-left: 30px;
+  padding-top: 30px;
+  text-align: left;
+}
+
+.price-title {
+  color: #162133;
+  font-size: 25px;
+  font-weight: 600;
+  padding-left: 20px;
+  margin-top: 20px;
+  font-family: "Poppins", sans-serif;
+}
+
+.price-card__icon {
+  float: left;
+  font-size: 40px;
+  color: #5472ee;
+  font-size: 30px;
+
+}
+
+.pricing {
+  margin-top: 10px;
+  font-family: "Roboto", sans-serif;
+  text-align: left;
+}
+
+.feature-container {
+  margin-top: 50px;
+}
+
+.button-container {
+  margin-top: 50px;
+}
+
+.dollar-sign {
+  margin-top: 10px;
+  text-align: left;
+  font-size: 40px;
+  color: #bdcad3;
+  font-weight: 400;
+}
+
+.price {
+  margin-top: 10px;
+  margin-left: 10px;
+  text-align: left;
+  font-size: 50px;
+  font-weight: 500;
+  color: #162133;
+}
+
+.period {
+  margin-left: 10px;
+  color: #778086;
+}
+
+/* CARD PRO STYLE */
+
+.card-price__pro {
+  background-color: #5472ee;
+  border-radius: 10px;
+  height: 480px;
+  width: 330px;
+  padding-left: 30px;
+  padding-top: 30px;
+  text-align: left;
+}
+
+.card-price__pro .price-title {
+  color: #fff;
+  font-size: 25px;
+  font-weight: 600;
+  padding-left: 20px;
+  margin-top: 20px;
+  font-family: "Poppins", sans-serif;
+}
+
+.card-price__pro .price {
+  margin-top: 10px;
+  margin-left: 10px;
+  text-align: left;
+  font-size: 50px;
+  font-weight: 500;
+  color: #fff;
+}
+
+.card-price__pro .period {
+  margin-left: 10px;
+  color: #c9e7fa;
+}
+
+.card-price__pro .dollar-sign {
+  margin-top: 10px;
+  text-align: left;
+  font-size: 40px;
+  color: #8499f0;
+  font-weight: 400;
+}
+
+.card-price__pro .price-card__icon {
+  float: left;
+  font-size: 30px;
+  color: #fff
+}

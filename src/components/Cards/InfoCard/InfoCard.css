@@ -1,0 +1,47 @@
+.card-info{
+    background-color: #d0ecff;
+    border-radius: 20px;
+	height:800px;
+    width:400px;
+    margin: 50px 30px;
+    text-align: left;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+
+
+.title-black__w700 {
+    margin-top: 50px;
+    margin-bottom: unset;
+    font-size: 50px;
+    font-weight: 700;
+    color: #162133;
+    font-family: 'Poppins', sans-serif;
+
+  }
+  
+  .title-blue__w400 {
+    font-size: 50px;
+    font-weight: 400;
+    color: #457692;
+    margin-top: 0;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  
+  .info-card__icon {
+    font-size: 40px;
+    color: #5472ee;
+    
+  }
+  
+  .info-paragraph{
+    font-weight: 300;
+    color: #457692;
+    line-height: 25px;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+  
+  }
+  
+  
